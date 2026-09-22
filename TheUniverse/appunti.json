@@ -1,0 +1,86 @@
+{
+  "title": "The Universe",
+  "subject": "Science - Class 5",
+  "accent": "#17B8C4",
+  "layout": { "orientation": "landscape", "columns": 2 },
+  "keywords_label": "KEYWORDS TO REMEMBER",
+  "keywords": [
+    "big bang",
+    "13.8 billion years ago",
+    "hot and small",
+    "expand",
+    "cool down",
+    "stars and planets",
+    "93 billion light-years",
+    "milky way"
+  ],
+  "sections": [
+    {
+      "heading": "THE UNIVERSE",
+      "color": "#17B8C4",
+      "blocks": [
+        { "type": "text", "text": "The universe, or **cosmos**, is everything that exists:" },
+        {
+          "type": "list",
+          "items": ["planets", "stars", "galaxies", "light", "matter", "energy and time"]
+        },
+        {
+          "type": "caption",
+          "text": "Nel disegno originale: una nuvola che racchiude una galassia a spirale, la Terra e un pianeta con gli anelli - tutto cio' che esiste sta dentro il cosmo."
+        }
+      ]
+    },
+    {
+      "heading": "THE BIG BANG",
+      "color": "#8BC34A",
+      "blocks": [
+        {
+          "type": "text",
+          "text": "Scientists think that the universe began with the **big bang** about **13.8 billion years ago**."
+        },
+        {
+          "type": "text",
+          "text": "At the beginning, the universe was very hot and very small. Then it started to expand and cool down. Atoms formed and matter spread through space. Over time, this matter formed stars, planets and other celestial bodies."
+        },
+        { "type": "text", "text": "The universe is still expanding today." },
+        {
+          "type": "flow",
+          "steps": [
+            "very hot and very small",
+            "it expanded",
+            "it cooled down and matter formed stars, planets and other celestial bodies"
+          ],
+          "caption": "La sequenza disegnata in fondo al cartellone."
+        }
+      ]
+    },
+    {
+      "heading": "HOW BIG IS THE UNIVERSE?",
+      "color": "#FFD54F",
+      "blocks": [
+        {
+          "type": "list",
+          "items": [
+            "We don't know the size of the whole universe.",
+            "The observable universe is about **93 billion light-years** in diameter.",
+            "A **light-year** is the distance that light travels in one year.",
+            "The **universe is incredibly huge**: even travelling at the speed of light, it would take about **100,000 years** to cross our Milky Way galaxy!"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": ["", "Size"],
+          "rows": [
+            ["Observable universe", "~ 93 billion light-years across"],
+            ["Milky Way (our galaxy)", "~ 100,000 years to cross at the speed of light"],
+            ["Whole universe", "unknown"]
+          ]
+        },
+        {
+          "type": "caption",
+          "text": "Nel disegno originale: un telescopio puntato verso un cerchio tratteggiato pieno di stelle - il telescopio vede solo l'universo osservabile, non tutto il cosmo."
+        }
+      ]
+    }
+  ]
+}

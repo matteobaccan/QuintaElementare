@@ -1,0 +1,10 @@
+# Normalizza i fine riga solo sui file di testo.
+* text=auto
+
+# I file generati sono binari: senza queste righe, con core.autocrlf=true
+# git ci sostituisce LF con CRLF e li corrompe.
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.docx  binary

@@ -1,0 +1,89 @@
+{
+  "title": "The Universe",
+  "subject": "Science - Class 5",
+  "language": "en",
+  "multiple_choice": [
+    {
+      "question": "The universe, or cosmos, is...",
+      "options": [
+        "all the planets that we can see with a telescope",
+        "only our galaxy, the Milky Way",
+        "everything that exists",
+        "the empty space between the stars"
+      ],
+      "answer": 2,
+      "explanation": "The notes open with it: the universe is everything that exists - planets, stars, galaxies, light, matter, energy and time."
+    },
+    {
+      "question": "Scientists think that the universe began with the big bang about...",
+      "options": [
+        "13.8 billion years ago",
+        "93 billion years ago",
+        "100,000 years ago",
+        "13.8 million years ago"
+      ],
+      "answer": 0,
+      "explanation": "13.8 billion years is the age of the universe. 93 billion is the size of the observable universe, not its age."
+    },
+    {
+      "question": "At the very beginning, just after the big bang, the universe was...",
+      "options": [
+        "very cold and very big",
+        "very hot and very big",
+        "very cold and very small",
+        "very hot and very small"
+      ],
+      "answer": 3,
+      "explanation": "It was very hot and very small; only afterwards did it start to expand and cool down."
+    },
+    {
+      "question": "How big is the observable universe?",
+      "options": [
+        "about 100,000 light-years across",
+        "about 93 billion light-years in diameter",
+        "about 13.8 billion kilometres across",
+        "exactly the same size as the Milky Way"
+      ],
+      "answer": 1,
+      "explanation": "The notes say 93 billion light-years in diameter. 100,000 light-years is how far light travels crossing the Milky Way."
+    },
+    {
+      "question": "A light-year is...",
+      "options": [
+        "the time that light needs to reach the Earth",
+        "one year measured on a very bright star",
+        "the distance that light travels in one year",
+        "the speed of light during one year"
+      ],
+      "answer": 2,
+      "explanation": "A light-year measures a distance, not a time: how far light travels in one year."
+    }
+  ],
+  "open_questions": [
+    {
+      "question": "What does the universe contain? Write at least four things.",
+      "lines": 3,
+      "model_answer": "Planets, stars, galaxies, light, matter, energy and time."
+    },
+    {
+      "question": "Explain in your own words what happened to the universe after the big bang.",
+      "lines": 5,
+      "model_answer": "It was very hot and very small, then it started to expand and cool down. Atoms formed and matter spread through space, and over time that matter formed stars, planets and other celestial bodies. The universe is still expanding today."
+    },
+    {
+      "question": "Why can scientists not tell us the size of the whole universe?",
+      "lines": 4,
+      "model_answer": "Because we can only see the observable universe, the part whose light reaches us. We do not know how big the rest of the universe is."
+    },
+    {
+      "question": "What is the difference between the observable universe and the whole universe?",
+      "lines": 4,
+      "model_answer": "The observable universe is the part we can observe and it is about 93 billion light-years in diameter. The whole universe is everything that exists and we do not know its size."
+    },
+    {
+      "question": "Travelling at the speed of light it would take about 100,000 years just to cross our galaxy. What does this tell you about the universe?",
+      "lines": 5,
+      "model_answer": "That the universe is incredibly huge. Light is the fastest thing we know, and it still needs 100,000 years to cross the Milky Way, which is only one galaxy among many."
+    }
+  ]
+}
